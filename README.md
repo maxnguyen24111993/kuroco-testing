@@ -1,1 +1,0 @@
-# kuroco-testing
